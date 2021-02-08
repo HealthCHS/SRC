@@ -1,4 +1,4 @@
-# AAA
+# AAA/Abdominal aortic aneurysm
 
 ## Treatment
 ### Abdominal aortic aneurysm

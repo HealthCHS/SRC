@@ -3,9 +3,9 @@ Health A to Z
 ## A
 
 - [x] [AAA](abdominal-aortic-aneurysm)
-- [ ] AAA screening
+- [x] AAA screening
 - [x] [Abdominal aortic aneurysm](abdominal-aortic-aneurysm)
-- [ ] Abdominal aortic aneurysm screening
+- [x] Abdominal aortic aneurysm screening
 - [ ] Abortion
 - [ ] Abscess
 - [ ] Acanthosis nigricans
