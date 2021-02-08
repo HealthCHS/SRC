@@ -30,6 +30,7 @@ Scans are done:
 
 - every year if you have a small AAA
 - every 3 months if you have a medium AAA
+
 Surgery may be offered if the scans show that a AAA larger than 4cms has grown by more than 1cm over 12 months. Surgery may also be offered if you have symptoms linked to AAA, such as a pulsing sensation in your tummy or tummy pain that does not go away.
 
 You'll also be told about lifestyle changes that can help reduce the risk of an aneurysm getting bigger, such as eating healthily.
@@ -41,6 +42,7 @@ You can otherwise carry on as normal, although having an AAA may have some impli
 Read some [frequently asked questions about AAAs](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/faqs/) for more information.
 
 ### Large AAAs
+
 If you have a large AAA, surgery to strengthen it with a piece of manmade tubing (a graft) is usually recommended because the risk of it bursting is bigger than the risk of complications from surgery.
 
 There are 2 main types of surgery for an AAA:
@@ -72,7 +74,7 @@ heavy bleeding from your groin
 ***Please visit NHS website to watch Video: abdominal aortic aneurysm - endovascular surgery***  
 ***This video shows what happens when you have endovascular surgery for an abdominal aortic aneurysm.***
 
-###Open surgery
+### Open surgery
 
 During open surgery, a cut is made in your tummy and your surgeon replaces the affected section of aorta with a graft. This is done under general anaesthetic.
 
@@ -87,6 +89,7 @@ Risks of open surgery include:
 - heavy bleeding
 - a heart attack or stroke
 - [erectile dysfunction](https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/) or [ejaculation problems](https://www.nhs.uk/conditions/ejaculation-problems/) in men
+
 The risk of graft problems is lower than with endovascular surgery. The graft will usually work well for the rest of your life and you will not usually need regular scans to check it.
 
 ***Please visit NHS website to watch Video: abdominal aortic aneurysm - open surgery***  
