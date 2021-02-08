@@ -2,9 +2,9 @@ Health A to Z
 
 ## A
 
-- [x] AAA
+- [x] [AAA](abdominal-aortic-aneurysm)
 - [ ] AAA screening
-- [ ] Abdominal aortic aneurysm
+- [x] [Abdominal aortic aneurysm](abdominal-aortic-aneurysm)
 - [ ] Abdominal aortic aneurysm screening
 - [ ] Abortion
 - [ ] Abscess
