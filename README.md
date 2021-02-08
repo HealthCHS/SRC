@@ -2,10 +2,10 @@ Health A to Z
 
 ## A
 
-- [x] [AAA](abdominal-aortic-aneurysm)
-- [x] AAA screening
-- [x] [Abdominal aortic aneurysm](abdominal-aortic-aneurysm)
-- [x] Abdominal aortic aneurysm screening
+- [x] [AAA](abdominal-aortic-aneurysm.md)
+- [x] [AAA screening](abdominal-aortic-aneurysm-screening.md)
+- [x] [Abdominal aortic aneurysm](abdominal-aortic-aneurysm.md)
+- [x] [Abdominal aortic aneurysm screening](abdominal-aortic-aneurysm-screening.md)
 - [ ] Abortion
 - [ ] Abscess
 - [ ] Acanthosis nigricans
