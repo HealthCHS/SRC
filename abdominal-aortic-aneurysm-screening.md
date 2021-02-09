@@ -13,6 +13,7 @@ This bulge or swelling is called an abdominal aortic aneurysm, or AAA.
 It can be serious if it's not spotted early on because it could get bigger and eventually burst (rupture).
 
 ### Who's screened for AAA
+
 In England, screening for AAA is offered to men during the year they turn 65.
 
 Men aged 65 or over are most at risk of getting AAAs. Screening can help spot a swelling in the aorta early on when it can usually be treated.
@@ -68,8 +69,9 @@ For the scan:
 - you lie down on a table and lift up or unbutton your top (you do not need to undress)
 - the technician rubs a clear gel on your tummy and moves a small handheld scanner over your skin – pictures from the scanner are shown on a monitor and the technician will measure how wide your aorta is
 - the gel is wiped away and you pull down or button up your top
-the technician tells you the result straight away
-- The whole test usually takes about 10 to 15 minutes.
+- the technician tells you the result straight away
+
+The whole test usually takes about 10 to 15 minutes.
 
 Sometimes the technician might not be able to see your aorta clearly. This is not anything to worry about.
 
