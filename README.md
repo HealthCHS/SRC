@@ -1254,4 +1254,4 @@ Health A to Z
 - [ ] Yellow fever
 
 ## Z
-- [ ] Zika virus
+- [x] [Zika virus](zika-virus.md)
