@@ -1,4 +1,4 @@
-Health A to Z
+# Health A to Z by NHS
 
 <details>
 <summary>A</summary>
@@ -1237,7 +1237,6 @@ Health A to Z
 - [ ] Type 2 diabetes
 - [ ] Typhoid fever
 - [ ] Typhus
-
 
 </details>
 
