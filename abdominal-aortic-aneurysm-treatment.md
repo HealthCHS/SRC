@@ -75,7 +75,7 @@ Risks of endovascular surgery include:
 
 - the graft leaking or slipping out of position – you'll have regular scans to check for this, and may need another operation to fix any problems
 - a wound infection or infection of the graft
-heavy bleeding from your groin
+- heavy bleeding from your groin
 - a blood clot, heart attack or stroke
 
 ***Please visit NHS website to watch Video: abdominal aortic aneurysm - endovascular surgery***  
