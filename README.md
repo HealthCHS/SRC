@@ -515,7 +515,7 @@ Health A to Z
 - [ ] Haemophilia
 - [ ] Haemophilus influenzae type b (Hib)
 - [ ] Hair dye reactions
-- [ ] Hair loss
+- [x] Hair loss
 - [ ] Hairy cell leukaemia
 - [ ] Halitosis
 - [ ] Hallucinations and hearing voices
