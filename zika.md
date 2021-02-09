@@ -171,5 +171,5 @@ This helps scientists look for better ways to prevent and treat this condition. 
 
 [best use of medicines in pregnancy (bumps): Zika virus](http://www.medicinesinpregnancy.org/Medicine--pregnancy/Zika-virus/)
 
-***Page last reviewed: 10 December 2018
+***Page last reviewed: 10 December 2018  
 Next review due: 10 December 2021***
