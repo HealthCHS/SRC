@@ -1,6 +1,7 @@
 Health A to Z
 
-## A
+<details>
+<summary>A</summary>
 
 - [x] [AAA](abdominal-aortic-aneurysm.md)
 - [x] [AAA screening](abdominal-aortic-aneurysm-screening.md)
@@ -103,7 +104,10 @@ Health A to Z
 - [ ] Autosomal recessive polycystic kidney disease
 - [ ] Avian flu
 
-## B
+</details>
+
+<details>
+<summary>B</summary>
 
 - [ ] Baby
 - [ ] Back pain
@@ -202,7 +206,10 @@ Health A to Z
 - [ ] Bursitis
 - [ ] Buttock pain
 
-## C
+</details>
+
+<details>
+<summary>C</summary>
 
 - [ ] CABG
 - [ ] Caesarean section
@@ -319,7 +326,10 @@ Health A to Z
 - [ ] Cystoscopy
 - [ ] Cytomegalovirus (CMV)
 
-## D
+</details>
+
+<details>
+<summary>D</summary>
 
 - [ ] Dandruff
 - [ ] Deafblindness
@@ -378,7 +388,10 @@ Health A to Z
 - [ ] Dyspraxia in children
 - [ ] Dystonia
 
-## E
+</details>
+
+<details>
+<summary>E</summary>
 
 - [ ] Ear infections
 - [ ] Earache
@@ -433,7 +446,10 @@ Health A to Z
 - [ ] Eye tests for children
 - [ ] Eyelid problems
 
-## F
+</details>
+
+<details>
+<summary>F</summary>
 
 - [ ] Fabricated or induced illness
 - [ ] Face blindness
@@ -468,7 +484,10 @@ Health A to Z
 - [ ] Functional neurological disorder
 - [ ] Fungal nail infection
 
-## G
+</details>
+
+<details>
+<summary>G</summary>
 
 - [ ] Gallbladder cancer
 - [ ] Gallbladder pain
@@ -509,7 +528,10 @@ Health A to Z
 - [ ] Guillain-Barré syndrome
 - [ ] Gum disease
 
-## H
+</details>
+
+<details>
+<summary>H</summary>
 
 - [ ] Haemochromatosis
 - [ ] Haemophilia
@@ -619,7 +641,10 @@ Health A to Z
 - [ ] Hysterectomy
 - [ ] Hysteroscopy
 
-## I
+</details>
+
+<details>
+<summary>I</summary>
 
 - [ ] IBS
 - [ ] Ichthyosis
@@ -652,7 +677,10 @@ Health A to Z
 - [ ] Itchy skin
 - [ ] IVF
 
-## J
+</details>
+
+<details>
+<summary>J</summary>
 
 - [ ] Japanese encephalitis
 - [ ] Jaundice
@@ -663,7 +691,10 @@ Health A to Z
 - [ ] Joint hypermobility syndrome
 - [ ] Joint pain
 
-## K
+</details>
+
+<details>
+<summary>K</summary>
 
 - [ ] Kaposi's sarcoma
 - [ ] Kawasaki disease
@@ -682,7 +713,10 @@ Health A to Z
 - [ ] Kwashiorkor
 - [ ] Kyphosis
 
-## L
+</details>
+
+<details>
+<summary>L</summary>
 
 - [ ] "Leaky gut syndrome"
 - [ ] Labial fusion
@@ -735,7 +769,10 @@ Health A to Z
 - [ ] Lyme disease
 - [ ] Lymphoedema
 
-## M
+</details>
+
+<details>
+<summary>M</summary>
 
 - [ ] Macular degeneration (age-related)
 - [ ] Macular hole
@@ -796,7 +833,10 @@ Health A to Z
 - [ ] Myositis (polymyositis and dermatomyositis)
 - [ ] Ménière's disease
 
-## N
+</details>
+
+<details>
+<summary>N</summary>
 
 - [ ] Nail fungal infection
 - [ ] Nail patella syndrome
@@ -833,7 +873,10 @@ Health A to Z
 - [ ] Nosebleed
 - [ ] NSAIDs
 
-## O
+</details>
+
+<details>
+<summary>O</summary>
 
 - [ ] Obesity
 - [ ] Obsessive compulsive disorder (OCD)
@@ -856,7 +899,10 @@ Health A to Z
 - [ ] Ovulation pain
 - [ ] Oxygen therapy
 
-## P
+</details>
+
+<details>
+<summary>P</summary>
 
 - [ ] Pacemaker implantation
 - [ ] Paget's disease of bone
@@ -958,12 +1004,18 @@ Health A to Z
 - [ ] Pulmonary hypertension
 - [ ] Pyoderma gangrenosum
 
-## Q
+</details>
+
+<details>
+<summary>Q</summary>
 
 - [ ] Q fever
 - [ ] Quinsy
 
-## R
+</details>
+
+<details>
+<summary>R</summary>
 
 - [ ] Rabies
 - [ ] Radiotherapy
@@ -997,7 +1049,10 @@ Health A to Z
 - [ ] Roundworm
 - [ ] Rubella (german measles)
 
-## S
+</details>
+
+<details>
+<summary>S</summary>
 
 - [ ] Salivary gland stones
 - [ ] Sarcoidosis
@@ -1115,7 +1170,10 @@ Health A to Z
 - [ ] Swollen glands
 - [ ] Syphilis
 
-## T
+</details>
+
+<details>
+<summary>T</summary>
 
 - [ ] Tapeworm
 - [ ] Tay-Sachs disease
@@ -1180,7 +1238,11 @@ Health A to Z
 - [ ] Typhoid fever
 - [ ] Typhus
 
-## U
+
+</details>
+
+<details>
+<summary>U</summary>
 
 - [ ] Ulcerative colitis
 - [ ] Ultrasound scan
@@ -1197,7 +1259,10 @@ Health A to Z
 - [ ] Uterine (womb) cancer
 - [ ] Uveitis
 
-## V
+</details>
+
+<details>
+<summary>V</summary>
 
 - [ ] Vaccinations
 - [ ] Vaginal cancer
@@ -1225,7 +1290,10 @@ Health A to Z
 - [ ] Vulval cancer
 - [ ] Vulvodynia (vulval pain)
 
-## W
+</details>
+
+<details>
+<summary>W</summary>
 
 - [ ] Warts and verrucas
 - [ ] Watering eyes
@@ -1245,13 +1313,25 @@ Health A to Z
 - [ ] Womb (uterus) cancer
 - [ ] Worms in humans
 
-## X
+</details>
+
+<details>
+<summary>X</summary>
 
 - [x] [X-ray](x-ray.md)
 
-## Y
+</details>
+
+<details>
+<summary>Y</summary>
 
 - [x] [Yellow fever](yellow-fever.md)
 
-## Z
+</details>
+
+<details>
+<summary>Z</summary>
+
 - [x] [Zika virus](zika.md)
+
+</details>
