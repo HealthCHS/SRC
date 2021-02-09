@@ -1247,7 +1247,7 @@ Health A to Z
 
 ## X
 
-- [ ] X-ray
+- [x] [X-ray](x-ray.md)
 
 ## Y
 
