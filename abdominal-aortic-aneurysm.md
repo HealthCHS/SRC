@@ -1,8 +1,8 @@
-# AAA/Abdominal aortic aneurysm
+<!-- AAA/Abdominal aortic aneurysm -->
 
-## Overview
-### Abdominal aortic aneurysm
+# **Overview**
 
+## *Abdominal aortic aneurysm*
 
 - **Overview**
 - [Treatment](abdominal-aortic-aneurysm-treatment.md)
@@ -17,7 +17,9 @@ Screening for AAA is routinely offered by the NHS to all men aged 65 and over.
 
 Women aged 70 or over, who have underlying risk factors such as high blood pressure, may also be advised to attend screening for AAA.
 
-### Symptoms of an abdominal aortic aneurysm (AAA)
+
+
+## Symptoms of an abdominal aortic aneurysm (AAA)
 
 AAAs do not usually cause any obvious symptoms, and are often only picked up during screening or tests carried out for another reason.
 
@@ -38,7 +40,9 @@ If an AAA bursts, it can cause:
 
 Call 999 for an ambulance immediately if you or someone else develops symptoms of a burst AAA.
 
-### When to get medical help
+
+
+## When to get medical help
 
 Make an appointment to see a GP as soon as possible if you have symptoms, especially if you're at a higher risk of an AAA.
 
@@ -46,7 +50,9 @@ An [ultrasound scan](ultrasound-scan) of your tummy may be done to check if you 
 
 Call 999 for an ambulance immediately if you or someone else develops symptoms of a burst AAA.
 
-### Who's at risk of an abdominal aortic aneurysm (AAA)
+
+
+## Who's at risk of an abdominal aortic aneurysm (AAA)
 
 An AAA can form if the sides of the aorta weaken and balloon outwards. It's not always clear why this happens, but there are things that increase the risk.
 
@@ -61,7 +67,9 @@ People at a higher risk of getting an AAA include all men aged 66 or over and wo
 
 Speak to a GP if you're worried you may be at risk of an AAA. They may suggest having a scan and making healthy lifestyle changes to reduce your risk of an AAA.
 
-### Treatments for an abdominal aortic aneurysm (AAA)
+
+
+## Treatments for an abdominal aortic aneurysm (AAA)
 
 The recommended treatment for an AAA depends on how big it is.
 
@@ -74,7 +82,9 @@ Treatment for a:
 - **large AAA (5.5cm or more)** – surgery to stop it getting bigger or bursting is usually recommended
 - Ask your doctor if you're not sure what size your AAA is.
 
-### Reducing your risk of an abdominal aortic aneurysm (AAA)
+
+
+## Reducing your risk of an abdominal aortic aneurysm (AAA)
 
 There are several things you can do to reduce your chances of getting an AAA or help stop one getting bigger.
 
@@ -88,7 +98,9 @@ These include:
 
 If you have a condition that increases your risk of an AAA, such as high blood pressure, your GP may also recommend taking tablets to treat this.
 
-### Screening for AAAs
+
+
+## Screening for AAAs
 
 In England, screening for AAAs is offered to men during the year they turn 65. This can help spot a swelling in the aorta early on, when it can be treated.
 

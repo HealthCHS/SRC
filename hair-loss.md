@@ -1,3 +1,5 @@
+<!-- Hair loss -->
+
 # Hair loss
 
 **Losing your hair is not usually anything to be worried about, but it can be upsetting. Treatment may help with some types of hair loss.**
@@ -34,6 +36,8 @@ Tell them if your hair loss is affecting your wellbeing, and ask what treatments
 
 > Important
 > See a GP to get a clear idea about what's causing your hair loss before thinking about going to a commercial hair clinic.
+
+
 
 ## Treatment for hair loss
 

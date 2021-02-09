@@ -1,7 +1,8 @@
-# AAA screening/Abdominal aortic aneurysm screening
+<!-- AAA screening/Abdominal aortic aneurysm screening -->
 
-## Overview
-### Abdominal aortic aneurysm screening
+# **Overview**
+
+## *Abdominal aortic aneurysm screening*
 
 - **Overview**
 - [FAQs](abdominal-aortic-aneurysm-screening-faqs.md)
@@ -12,7 +13,9 @@ This bulge or swelling is called an abdominal aortic aneurysm, or AAA.
 
 It can be serious if it's not spotted early on because it could get bigger and eventually burst (rupture).
 
-### Who's screened for AAA
+
+
+## Who's screened for AAA
 
 In England, screening for AAA is offered to men during the year they turn 65.
 
@@ -28,13 +31,17 @@ This is because the risk of getting an AAA is much smaller in these groups.
 
 If you're over 65 years old, you can ask for a scan to check for an AAA if you think you might need one but have not been offered a screening test.
 
-### How to get screened for AAA
+
+
+## How to get screened for AAA
 
 If you're a man and registered with a GP, you'll get a screening invitation in the post when you're 64 or soon after your 65th birthday. You can then arrange an appointment that suits you.
 
 If you're a man over 65 and have not been screened before, you can ask for a test by contacting [your local AAA screening service](https://www.nhs.uk/Service-Search/Abdominal-aortic-aneurysm-screening/LocationSearch/1910) directly.
 
-### Benefits of AAA screening
+
+
+## Benefits of AAA screening
 
 An AAA will often cause few or no obvious symptoms, but if it's left to get bigger, it could burst and cause life-threatening bleeding inside your tummy.
 
@@ -44,7 +51,9 @@ Screening can pick up an AAA before it bursts. If an AAA is found, you can choos
 
 The screening test is very quick, painless and reliable. Research suggests it can halve the risk of dying from an AAA.
 
-### Deciding to be screened
+
+
+## Deciding to be screened
 
 It's up to you to decide if you want to be screened for AAA.
 
@@ -56,7 +65,9 @@ There's no risk from the screening test itself, but there's a risk of:
 - serious complications of surgery carried out to treat an AAA
 Call your local screening service and ask to be removed from its list if you do not want to be screened.
 
-### What happens during AAA screening
+
+
+## What happens during AAA screening
 
 Screening for AAA involves a quick and painless [ultrasound scan](https://www.nhs.uk/conditions/ultrasound-scan/) of your tummy.
 
@@ -77,7 +88,9 @@ Sometimes the technician might not be able to see your aorta clearly. This is no
 
 If this happens, you'll be asked to have another scan, usually on a different day.
 
-### Results of AAA screening
+
+
+## Results of AAA screening
 
 You'll be told your result at the end of the test. 
 
@@ -85,13 +98,17 @@ If a problem is found, you'll also be a sent letter confirming the result and le
 
 There are 4 possible screening results.
 
-#### No aneurysm found
+
+
+### No aneurysm found
 
 If your aorta is less than 3cm wide, this means it's not enlarged. Most men have this result.
 
 You will not need to have any treatment or monitoring afterwards, and will not be invited for AAA screening again.
 
-#### Small AAA
+
+
+### Small AAA
 
 If you have a small AAA, this means your aorta measures 3cm to 4.4cm across.
 
@@ -105,7 +122,9 @@ Treatment will usually only be needed if it becomes a large AAA.
 
 You'll also be given advice on [how you can stop an AAA getting bigger](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/#prevention), such as stopping smoking, eating healthily and exercising regularly.
 
-#### Medium AAA
+
+
+### Medium AAA
 
 If you have a medium AAA, this means your aorta measures 4.5cm to 5.4cm across.
 
@@ -119,7 +138,9 @@ Treatment will usually only be needed if it becomes a large AAA.
 
 You'll also be given advice on [how you can stop an AAA getting bigger](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/#prevention), such as stopping smoking, eating healthily and exercising regularly.
 
-#### Large AAA
+
+
+### Large AAA
 
 If you have a large AAA, this means your aorta measures 5.5cm or more across.
 
@@ -131,7 +152,9 @@ Most men with a large AAA are advised to have surgery to stop it getting bigger 
 
 While surgery carries a risk of serious complications, this is generally smaller than the risk of not treating a large AAA.
 
-### Further information
+
+
+## Further information
 
 Read more about [how AAAs are treated](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/)
 

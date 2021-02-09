@@ -1,3 +1,5 @@
+<!-- X-ray -->
+
 # X-ray
 
 **An X-ray is a quick and painless procedure commonly used to produce images of the inside of the body.**

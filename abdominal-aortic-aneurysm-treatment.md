@@ -1,7 +1,8 @@
-# AAA/Abdominal aortic aneurysm
+<!-- AAA/Abdominal aortic aneurysm -->
 
-## Treatment
-### Abdominal aortic aneurysm
+# **Treatment**
+
+## *Abdominal aortic aneurysm*
 
 - [Overview](abdominal-aortic-aneurysm.md)
 - **Treatment**
@@ -20,7 +21,9 @@ The risk of a small or medium AAA bursting is much lower, so you'll normally be 
 
 Ask your doctor if you're not sure what size your aneurysm is.
 
-### Small and medium AAAs
+
+
+## Small and medium AAAs
 
 You might not need treatment if you have a small or medium AAA. This is because the risk of the AAA bursting is smaller than the risk of complications from surgery.
 
@@ -41,7 +44,9 @@ You can otherwise carry on as normal, although having an AAA may have some impli
 
 Read some [frequently asked questions about AAAs](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/faqs/) for more information.
 
-### Large AAAs
+
+
+## Large AAAs
 
 If you have a large AAA, surgery to strengthen it with a piece of manmade tubing (a graft) is usually recommended because the risk of it bursting is bigger than the risk of complications from surgery.
 
@@ -54,7 +59,9 @@ Both techniques are equally good at reducing the risk of an AAA bursting, but ea
 
 If surgery is not suitable for you, you'll have regular scans to monitor your aneurysm and be given advice about healthy lifestyle changes. You may also be prescribed medicine to help stop the aneurysm bursting.
 
-### Endovascular surgery
+
+
+## Endovascular surgery
 
 In endovascular surgery, a graft is inserted into a blood vessel in your groin through small cuts made in your skin. It's then carefully guided up into the aneurysm.
 
@@ -74,7 +81,9 @@ heavy bleeding from your groin
 ***Please visit NHS website to watch Video: abdominal aortic aneurysm - endovascular surgery***  
 ***This video shows what happens when you have endovascular surgery for an abdominal aortic aneurysm.***
 
-### Open surgery
+
+
+## Open surgery
 
 During open surgery, a cut is made in your tummy and your surgeon replaces the affected section of aorta with a graft. This is done under general anaesthetic.
 
@@ -95,7 +104,9 @@ The risk of graft problems is lower than with endovascular surgery. The graft wi
 ***Please visit NHS website to watch Video: abdominal aortic aneurysm - open surgery***  
 ***This animation explains what happens when you have open surgery for an abdominal aortic aneurysm.***
 
-### Treatment for a burst AAA
+
+
+## Treatment for a burst AAA
 
 A burst aneurysm is treated with emergency surgery using the same techniques used for a large aneurysm.
 

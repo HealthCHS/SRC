@@ -1,12 +1,13 @@
-# AAA screening/Abdominal aortic aneurysm screening
+<!-- AAA screening/Abdominal aortic aneurysm screening-->
 
-## FAQs
-### Abdominal aortic aneurysm screening
+# **FAQs**
+
+## *Abdominal aortic aneurysm screening*
 
 - [Overview](abdominal-aortic-aneurysm-screening.md)
 - **FAQs**
 
-### Is AAA screening offered outside England?
+## Is AAA screening offered outside England?
 
 AAA screening programmes have been set up in Northern Ireland, Scotland and Wales.
 
@@ -16,11 +17,13 @@ For more information, see:
 - Scotland: [NHS Inform AAA screening](http://www.healthscotland.scot/health-topics/screening/abdominal-aortic-aneurysm-screening)
 - Wales: [NHS Wales AAA Screening Programme](http://www.aaascreening.wales.nhs.uk/)
 
-### What happens if I'm a man over 65 and have not been screened?
+
+
+## What happens if I'm a man over 65 and have not been screened?
 
 If you're a man over 65 and you have not been screened before, you can contact [your local screening service](https://www.nhs.uk/Service-Search/Abdominal-aortic-aneurysm-screening/LocationSearch/1910) to ask for a scan without going through a GP.
 
-### Can women and men under 65 be screened?
+## Can women and men under 65 be screened?
 
 AAA screening is not routinely offered to women and men under 65 because most burst AAAs happen in men over 65. Men are 6 times more likely to have an AAA than women.
 
@@ -34,7 +37,9 @@ If you have a family history of AAA, you should take the usual health precaution
 
 [Read more about how to reduce your risk of getting an AAA](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/#prevention)
 
-### Can I drive if I have an AAA?
+
+
+## Can I drive if I have an AAA?
 
 You may need to tell the Driver and Vehicle Licensing Agency (DVLA) if you have an AAA. You may need to stop driving if it's large.
 
@@ -49,13 +54,17 @@ Ask a GP if you're not sure whether you need to inform the DVLA about your AAA, 
 
 Having an AAA should not affect your car insurance premium.
 
-### Can I fly if I have an AAA?
+
+
+## Can I fly if I have an AAA?
 
 It's safe to travel by plane if you have an AAA. They're no more likely to burst at a high altitude than on the ground.
 
 The Association of British Insurers (ABI) has been advised of this and it's not aware of any airlines that refuse people with an AAA.
 
-### Can I get travel insurance if I have an AAA?
+
+
+## Can I get travel insurance if I have an AAA?
 
 The ABI is unaware of any travel insurance policies that specifically exclude AAAs as part of their standard wording.
 
@@ -71,7 +80,9 @@ You may be charged an additional premium or have the condition excluded from you
 
 When looking for cover, a broker can help. The British Insurance Brokers Association (BIBA) operates a [find a broker service](https://www.biba.org.uk/find-insurance) that can help – they can be contacted on 0370 950 1790.
 
-### Could I find out about other health problems as a result of AAA screening?
+
+
+## Could I find out about other health problems as a result of AAA screening?
 
 No. During the screening scan the technician only looks at your aorta to check if you have an AAA. They do not check for any other health conditions.
 
