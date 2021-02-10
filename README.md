@@ -7,7 +7,7 @@
 - [x] [AAA screening](abdominal-aortic-aneurysm-screening.md)
 - [x] [Abdominal aortic aneurysm](abdominal-aortic-aneurysm.md)
 - [x] [Abdominal aortic aneurysm screening](abdominal-aortic-aneurysm-screening.md)
-- [x] Abortion
+- [ ] Abortion
 - [ ] Abscess
 - [ ] Acanthosis nigricans
 - [ ] Achalasia
