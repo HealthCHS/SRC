@@ -1248,7 +1248,7 @@
 - [ ] Umbilical hernia repair
 - [ ] Underactive thyroid (hypothyroidism)
 - [ ] Undescended testicles
-- [ ] Unintentional weight loss
+- [x] [Unintentional weight loss](unintentional-weight-loss.md)
 - [ ] Urethritis (NGU)
 - [ ] Urinary catheter
 - [ ] Urinary incontinence
@@ -1297,7 +1297,7 @@
 - [x] [Warts and verrucas](warts-and-verrucas.md)
 - [x] [Watering eyes](watering-eyes.md)
 - [x] [Wegener's granulomatosis](granulomatosis-with-polyangiitis.md)
-- [ ] Weight loss (unexpected)
+- [x] [Weight loss (unexpected)](unintentional-weight-loss.md)
 - [ ] Weight loss surgery
 - [ ] Weil's disease
 - [ ] West Nile virus
