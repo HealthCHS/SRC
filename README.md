@@ -1298,7 +1298,7 @@
 - [x] [Watering eyes](watering-eyes.md)
 - [x] [Wegener's granulomatosis](granulomatosis-with-polyangiitis.md)
 - [x] [Weight loss (unexpected)](unintentional-weight-loss.md)
-- [ ] Weight loss surgery
+- [ ] [Weight loss surgery](weight-loss-surgery.md)(WIP by zhullyb)
 - [ ] Weil's disease
 - [ ] West Nile virus
 - [ ] Whiplash
