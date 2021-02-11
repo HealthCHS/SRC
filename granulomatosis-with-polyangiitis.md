@@ -20,30 +20,30 @@ General symptoms include:
 - a high temperature
 - muscle weakness
 - loss of appetite
-- [unintentional weight loss](unintentional-weight-loss/) 
-- [joint pain](joint-pain/)
+- [unintentional weight loss](unintentional-weight-loss.md) 
+- [joint pain](joint-pain.md)
 
 Ear, nose and throat problems:
 
 - a blocked or runny nose
-- [nosebleeds](nosebleed/)
+- [nosebleeds](nosebleed.md)
 - crusts around the nostrils
-- [face pain (sinusitis)](sinusitis-sinus-infection/)
-- [earache](earache/)
-- [hearing loss](hearing-loss/)
+- [face pain (sinusitis)](sinusitis-sinus-infection.md)
+- [earache](earache.md)
+- [hearing loss](hearing-loss.md)
 
 Lung problems:
 
-- a [cough](cough/) that does not go away
-- [shortness of breath](shortness-of-breath/)
+- a [cough](cough.md) that does not go away
+- [shortness of breath](shortness-of-breath.md)
 - wheezing
-- [chest pain](chest-pain/)
+- [chest pain](chest-pain.md)
 
 Kidney problems:
 
-- [blood in pee](blood-in-urine/)
-- [high blood pressure](high-blood-pressure-hypertension/)
-- [inflammation of the kidneys (glomerulonephritis)](glomerulonephritis/)
+- [blood in pee](blood-in-urine.md)
+- [high blood pressure](high-blood-pressure-hypertension.md)
+- [inflammation of the kidneys (glomerulonephritis)](glomerulonephritis.md)
 
 Skin problems:
 
@@ -53,15 +53,15 @@ Skin problems:
 
 Eye problems
 
-- [irritated eyes (conjunctivitis)](conjunctivitis/)
+- [irritated eyes (conjunctivitis)](conjunctivitis.md)
 - swollen eyelids
-- [double vision](double-vision/)
+- [double vision](double-vision.md)
 
 Gut problems:
 
-- [tummy pain](stomach-ache/)
-- [diarrhoea](diarrhoea/)
-- [blood in poo](bleeding-from-the-bottom-rectal-bleeding/)
+- [tummy pain](stomach-ache.md)
+- [diarrhoea](diarrhoea.md)
+- [blood in poo](bleeding-from-the-bottom-rectal-bleeding.md)
 
 If it's not treated, GPA can cause permanent damage to some parts of the  body. For example, it can change the shape of the nose or stop the  kidneys working properly.
 
@@ -81,9 +81,9 @@ A specialist doctor may:
 
 - ask about your symptoms and examine the affected parts of your body
 - do a urine test to check how well your kidneys are working
-- do a [blood test](blood-tests/) to look for substances called ANCAs (antineutrophil cytoplasmic antibodies), which are thought to be involved in GPA
-- remove a small sample of tissue (a [biopsy](biopsy/)) and check it for signs of inflammation
-- organise an [X-ray](x-ray/), [CT scan](ct-scan/) or [MRI scan](mri-scan/) to look at the affected parts of the body in more detail
+- do a [blood test](blood-tests.md) to look for substances called ANCAs (antineutrophil cytoplasmic antibodies), which are thought to be involved in GPA
+- remove a small sample of tissue (a [biopsy](biopsy.md)) and check it for signs of inflammation
+- organise an [X-ray](x-ray.md), [CT scan](ct-scan.md) or [MRI scan](mri-scan.md) to look at the affected parts of the body in more detail
 
 ## Treatments for GPA
 
@@ -96,7 +96,7 @@ There are 3 main stages of treatment.
 The first aim of treatment is to bring the symptoms of GPA under control. This usually involves:
 
 - having injections of a medicine called cyclophosphamide every 2 or 3 weeks, or taking it as tablets every day (occasionally, other medicines – such as [methotrexate](https://www.nhs.uk/medicines/methotrexate/), mycophenolate mofetil or rituximab – may be used instead)
-- taking [steroid tablets](steroid-tablets/) every day or having [steroid injections](steroid-injections/) into your blood at the same time as the cyclophosphamide injections
+- taking [steroid tablets](steroid-tablets.md) every day or having [steroid injections](steroid-injections.md) into your blood at the same time as the cyclophosphamide injections
 
 These are all strong medicines, so make sure you discuss the possible side effects with your doctor.
 
@@ -128,7 +128,7 @@ You might need to take medicine for several years and you'll have regular check-
 
 About half of people with GPA have a relapse within a few years of their treatment stopping. Further treatment can help bring the condition back under  control if this happens.
 
-If GPA is severe or is not treated  quickly, there is a risk that life-threatening problems could develop,  such as permanent damage to the kidneys that may require a [kidney transplant](kidney-transplant/).
+If GPA is severe or is not treated  quickly, there is a risk that life-threatening problems could develop,  such as permanent damage to the kidneys that may require a [kidney transplant](kidney-transplant.md).
 
 This is why it's important to contact your doctor as soon as possible if your symptoms come back or you start getting new ones.
 
@@ -136,7 +136,7 @@ This is why it's important to contact your doctor as soon as possible if your sy
 
 For more information and advice, you may find it useful to check the [Vasculitis UK website](http://www.vasculitis.org.uk/).
 
-Vasculitis UK is an organisation for people with [vasculitis](vasculitis/) (inflammation of the blood vessels). GPA is a type of vasculitis.
+Vasculitis UK is an organisation for people with [vasculitis](vasculitis.md) (inflammation of the blood vessels). GPA is a type of vasculitis.
 
 The Vasculitis UK website has [information about living and coping with vasculitis](http://www.vasculitis.org.uk/living-with-vasculitis), including advice about general health, benefits and insurance.
 
