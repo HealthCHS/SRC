@@ -6,20 +6,20 @@
 
 ## Check if you have a wart or verruca
 
-  ![Close-up of 2 warts on a person's finger.](assets/img/warts-and-verrucas/A8JE7M.width-320_rD01XrL.jpg)        Warts feel firm and rough. They can appear on palms, knuckles, knees and fingers             
-<!-- FIXME: IMG-SRC https://assets.nhs.uk/nhsuk-cms/images/A8JE7M.width-1019_g104Dsv.jpg -->
+  ![Close-up of 2 warts on a person's finger.](assets/img/warts-and-verrucas/A8JE7M.jpg)        Warts feel firm and rough. They can appear on palms, knuckles, knees and fingers             
+<!-- FIXME: IMG-SRC https://www.nhs.uk/conditions/warts-and-verrucas/ -->
 
-  ![A dark brown wart on the back of a person's hand with a brown skin tone.](assets/img/warts-and-verrucas/C0497988-Common_wart.width-320.png)        Warts are usually skin coloured but may appear darker on dark skin             
-<!-- FIXME: IMG-SRC https://assets.nhs.uk/nhsuk-cms/images/C0497988-Common_wart.width-1019.png -->
+  ![A dark brown wart on the back of a person's hand with a brown skin tone.](assets/img/warts-and-verrucas/C0497988-Common_wart.png)        Warts are usually skin coloured but may appear darker on dark skin             
+<!-- FIXME: IMG-SRC https://www.nhs.uk/conditions/warts-and-verrucas/ -->
 
-  ![A verruca on the sole of a person's foot.](assets/img/warts-and-verrucas/C4Y7HY.width-320_kSJG2c0.jpg)        Verrucas appear on your feet. They have tiny black dots under the hard skin             
-<!-- FIXME: IMG-SRC https://assets.nhs.uk/nhsuk-cms/images/C4Y7HY.width-1019_33JI9bW.jpg -->
+  ![A verruca on the sole of a person's foot.](assets/img/warts-and-verrucas/C4Y7HY.jpg)        Verrucas appear on your feet. They have tiny black dots under the hard skin             
+<!-- FIXME: IMG-SRC https://www.nhs.uk/conditions/warts-and-verrucas/ -->
 
-  ![A collection of flat warts on a person's forehead.](assets/img/warts-and-verrucas/m2900129.width-320_wz1yXRT.jpg)        Some warts are round, flat and can be yellow (plane warts). You can have many of them             
-<!-- FIXME: IMG-SRC https://assets.nhs.uk/nhsuk-cms/images/m2900129.width-1019_5AK745s.jpg -->
+  ![A collection of flat warts on a person's forehead.](assets/img/warts-and-verrucas/m2900129.jpg)        Some warts are round, flat and can be yellow (plane warts). You can have many of them             
+<!-- FIXME: IMG-SRC https://www.nhs.uk/conditions/warts-and-verrucas/ -->
 
-  ![Close-up of a collection of mosaic warts spread over the skin.](assets/img/warts-and-verrucas/APW5KT.width-320_wqcxfR8.jpg)        Clusters of warts, spread over an area of skin (mosaic warts) are common on feet and hands             
-<!-- FIXME: IMG-SRC https://assets.nhs.uk/nhsuk-cms/images/APW5KT.width-1019_KepyB9V.jpg -->
+  ![Close-up of a collection of mosaic warts spread over the skin.](assets/img/warts-and-verrucas/APW5KT.jpg)        Clusters of warts, spread over an area of skin (mosaic warts) are common on feet and hands             
+<!-- FIXME: IMG-SRC https://www.nhs.uk/conditions/warts-and-verrucas/ -->
 
 Warts do not cause you any harm, but some people find them  itchy, painful or embarrassing. Verrucas are more likely to be painful – like standing on a needle.
 
