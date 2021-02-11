@@ -522,7 +522,7 @@
 - [ ] Gonorrhoea
 - [ ] Gout
 - [ ] Granuloma annulare
-- [ ] Granulomatosis with polyangiitis (Wegener's granulomatosis)
+- [x] [Granulomatosis with polyangiitis (Wegener's granulomatosis)](granulomatosis-with-polyangiitis.md)
 - [ ] Group B strep
 - [ ] Growing pains
 - [ ] Guillain-Barré syndrome
@@ -1296,7 +1296,7 @@
 
 - [x] [Warts and verrucas](warts-and-verrucas.md)
 - [x] [Watering eyes](watering-eyes.md)
-- [ ] Wegener's granulomatosis
+- [x] [Wegener's granulomatosis](granulomatosis-with-polyangiitis.md)
 - [ ] Weight loss (unexpected)
 - [ ] Weight loss surgery
 - [ ] Weil's disease
