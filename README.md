@@ -1294,7 +1294,7 @@
 <details>
 <summary>W</summary>
 
-- [ ] Warts and verrucas
+- [x] Warts and verrucas
 - [ ] Watering eyes
 - [ ] Wegener's granulomatosis
 - [ ] Weight loss (unexpected)
