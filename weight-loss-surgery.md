@@ -1,10 +1,19 @@
-#       Overview                   -           Weight loss surgery                  
+<!-- weight-loss-surgery -->
 
-  Contents                              Overview                                          [Availability](https://www.nhs.uk/conditions/weight-loss-surgery/who-can-have-it/)                                          [Types](https://www.nhs.uk/conditions/weight-loss-surgery/types/)                                          [Afterwards](https://www.nhs.uk/conditions/weight-loss-surgery/afterwards/)                                          [Risks](https://www.nhs.uk/conditions/weight-loss-surgery/risks/)                    
+# **Overview**
+
+> ## Weight loss surgery
+
+
+- **Overview**
+- [Availability](weight-loss-surgery-who-can-have-it.md)
+- [Types](weight-loss-surgery-types.md)
+- [Afterwards](weight-loss-surgery-afterwards.md)
+- [Risks](weight-loss-surgery-risks.md)
 
 **Weight loss surgery, also called bariatric or metabolic surgery, is sometimes used as a treatment for people who are very obese.**
 
-It can lead to significant weight loss and help improve many obesity-related conditions, such as [type 2 diabetes](https://www.nhs.uk/conditions/type-2-diabetes/) or [high blood pressure](https://www.nhs.uk/conditions/high-blood-pressure-hypertension/).
+It can lead to significant weight loss and help improve many obesity-related conditions, such as [type 2 diabetes](type-2-diabetes.md) or [high blood pressure](high-blood-pressure-hypertension.md).
 
 But it's a major operation and in most cases should only be considered after trying to [lose weight](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/) through a [healthy diet](https://www.nhs.uk/live-well/eat-well/) and [exercise](https://www.nhs.uk/live-well/exercise/).
 
@@ -20,7 +29,7 @@ Speak to a GP if you think weight loss surgery may be an option for you. If  you
 
 You can also pay for surgery privately, although this can be expensive.
 
-Read more about [NHS and private weight loss surgery](https://www.nhs.uk/conditions/weight-loss-surgery/who-can-have-it/).
+Read more about [NHS and private weight loss surgery](weight-loss-surgery-who-can-have-it.md).
 
 ## Types of weight loss surgery
 
@@ -36,7 +45,7 @@ All these operations can lead to significant weight loss within a few years, but
 
 If you're considering weight loss surgery, speak to a surgeon about the  different types available to help decide which is best for you.
 
-Read more about the [types of weight loss surgery](https://www.nhs.uk/conditions/weight-loss-surgery/types/).
+Read more about the [types of weight loss surgery](weight-loss-surgery/types.md).
 
 ## Life after weight loss surgery
 
@@ -52,7 +61,7 @@ You'll need to:
 
 Women who have weight loss surgery will also usually need to avoid becoming  pregnant during the first 12 to 18 months after surgery.
 
-Read more about [life after weight loss surgery](https://www.nhs.uk/conditions/weight-loss-surgery/afterwards/).
+Read more about [life after weight loss surgery](weight-loss-surgery-afterwards.md).
 
 ## Risks of weight loss surgery
 
@@ -61,14 +70,14 @@ Weight loss surgery carries a small risk of complications.
 These include:
 
 - being left with excess folds of skin – you may need further surgery to remove these and it is not usually available free of charge on the NHS
-- not getting enough [vitamins and minerals](https://www.nhs.uk/conditions/vitamins-and-minerals/) from your diet – you'll probably need to take supplements for the rest of your life after surgery
-- [gallstones](https://www.nhs.uk/conditions/gallstones/) (small, hard stones that form in the gallbladder)
-- a blood clot in the leg ([deep vein thrombosis](https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/)) or lungs ([pulmonary embolism](https://www.nhs.uk/conditions/pulmonary-embolism/))
+- not getting enough [vitamins and minerals](vitamins-and-minerals.md) from your diet – you'll probably need to take supplements for the rest of your life after surgery
+- [gallstones](gallstones.md) (small, hard stones that form in the gallbladder)
+- a blood clot in the leg ([deep vein thrombosis](deep-vein-thrombosis-dvt.md)) or lungs ([pulmonary embolism](pulmonary-embolism.md))
 - the gastric band slipping out of place, food leaking from the join between  the stomach and small intestine, or the gut becoming blocked or narrowed
 
 Before having surgery, speak to your surgeon about the possible benefits and risks of the procedure.
 
-Read more about the [risks of weight loss surgery](https://www.nhs.uk/conditions/weight-loss-surgery/risks/).
+Read more about the [risks of weight loss surgery](weight-loss-surgery-risks.md).
 
-      Page last reviewed: 14 April 2020
-      Next review due: 14 April 2023    
+***Page last reviewed: 14 April 2020  
+Next review due: 14 April 2023***
