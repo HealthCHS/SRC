@@ -21,14 +21,20 @@ The criteria for weight loss surgery on the NHS can vary across England. Check w
 [National Institute for Health and Care Excellence (NICE) guidelines on obesity](https://www.nice.org.uk/guidance/cg189/chapter/1-Recommendations) recommend that surgery should be provided on the NHS if you meet all of the following criteria:
 
 - you have a [body mass index (BMI)](https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/) of 40 or more, or a BMI between 35 and 40 and a serious condition that might improve if you lost weight (such as [type 2 diabetes](type-2-diabetes.md) or [high blood pressure](https://www.nhs.uk/conditions/Blood-pressure-(high)/Pages/Introduction.aspx))
+<!-- FIXME: UNKNOWN LINK -->
+
 - you've tried all other weight loss methods, such as dieting and exercise, but have struggled to lose weight or keep it off
+
 - you agree to long-term follow-up after surgery – such as making healthy lifestyle changes and attending regular check-ups
+
 - you're fit and healthy enough to have surgery under [general anaesthetic](general-anaesthesia.md) (where you're asleep)
+
 - you've been receiving or will receive treatment from a specialist obesity team
 
 If your BMI is 50 or over, surgery may be considered without needing to try other weight loss methods first.
 
 If you've been recently diagnosed with type 2 diabetes, particularly if you have a south Asian background, an [assessment to see if surgery is suitable](https://www.nhs.uk/conditions/weight-loss-surgery/types/#assessment) may be considered if your BMI is below 35.
+<!-- FIXME: UNKNOWN LINK -->
 
 ## Private weight loss surgery
 
