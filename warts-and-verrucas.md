@@ -35,7 +35,7 @@ Your pharmacist can give you advice about the best treatment for you.
 
 [Find a pharmacy](https://www.nhs.uk/service-search/find-a-pharmacy)
 
-> ###               See a GP if: 
+> ### **See a GP if:**
 >
 > - you're worried about a growth on your skin
 > - you have a wart or verruca that keeps coming back
@@ -62,7 +62,7 @@ Warts and verrucas are caused by a virus. They can be spread  to other people fr
 
 It can take months for a wart or verruca to appear after contact with the virus.
 
-> ###     Do  
+> ### **Do**  
 >
 > - wash your hands after touching a wart or verruca
 > - change your socks daily if you have a verruca
@@ -70,7 +70,7 @@ It can take months for a wart or verruca to appear after contact with the virus.
 > - cover warts and verrucas with a plaster when swimming
 > - take care not to cut a wart when shaving
 >
-> ###     Don’t  
+> ### **Don’t**  
 >
 > - do not share towels, flannels, socks or shoes if you have a wart or verruca
 > - do not bite your nails or suck fingers with warts on      
