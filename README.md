@@ -1,5 +1,8 @@
 # Health A to Z by NHS
 
+> Source link: <https://www.nhs.uk/conditions/>  
+> Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
 <details>
 <summary>A</summary>
 
