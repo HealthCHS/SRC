@@ -21,7 +21,7 @@ Other types of hair loss may be temporary. They can be caused by:
 
 [Find out more about cancer and hair loss](chemotherapy-cancer-and-hair-loss.md)
 
-> See a GP if:
+> ### **See a GP if:**
 > - you have sudden hair loss
 > - you develop bald patches
 > - you're losing hair in clumps

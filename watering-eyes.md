@@ -2,7 +2,7 @@
 
 # Watering eyes
 
-**Watering eyes are common and often get better on  their own, but treatment may be needed if the watering affects your  daily activities.**
+**Watering eyes are common and often get better on their own, but treatment may be needed if the watering affects your daily activities.**
 
 ## Causes of watering eyes
 
@@ -29,7 +29,7 @@ Babies often have watering eyes because their tear ducts are small. It usually g
 
 [Find a pharmacy](https://beta.nhs.uk/find-a-pharmacy/)
 
-> ### See a GP if: 
+> ### **See a GP if:**
 >
 > - your eyes keep watering and it's stopping you doing everyday activities
 > - you experience any changes to your vision, such as loss of vision
@@ -39,8 +39,10 @@ Babies often have watering eyes because their tear ducts are small. It usually g
 > - your baby's eyes are sore, red or very watery
 >
 > If your GP cannot find what's causing your eyes to water, they may refer you to an eye specialist (ophthalmologist) for tests.
->
-> ## Treatment for watering eyes
+
+
+
+## Treatment for watering eyes
 
 Treatment may not be needed if the watering is not causing problems.
 
