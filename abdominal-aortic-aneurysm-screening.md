@@ -159,4 +159,6 @@ While surgery carries a risk of serious complications, this is generally smaller
 Read more about [how AAAs are treated](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/)
 
 ***Page last reviewed: 12 January 2021  
-Next review due: 12 January 2024***
+Next review due: 12 January 2024  
+Source link: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

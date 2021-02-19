@@ -102,4 +102,6 @@ This may involve checking your:
 You may be advised to have a calorie-controlled diet in the weeks before  surgery to help reduce the size of your liver. This can make surgery  easier and safer.
 
 ***Page last reviewed: 14 April 2020  
-Next review due: 14 April 2023***
+Next review due: 14 April 2023  
+Source link: <https://www.nhs.uk/conditions/weight-loss-surgery/types//>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

@@ -80,4 +80,6 @@ Before having surgery, speak to your surgeon about the possible benefits and ris
 Read more about the [risks of weight loss surgery](weight-loss-surgery-risks.md).
 
 ***Page last reviewed: 14 April 2020  
-Next review due: 14 April 2023***
+Next review due: 14 April 2023  
+Source link: <https://www.nhs.uk/conditions/weight-loss-surgery/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

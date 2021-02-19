@@ -104,4 +104,6 @@ In the months after surgery, make an appointment to see a GP if you:
 - have times where you feel flushed, sweaty or faint
 
 ***Page last reviewed: 14 April 2020 
-Next review due: 14 April 2023***
+Next review due: 14 April 2023  
+Source link: <https://www.nhs.uk/conditions/weight-loss-surgery/afterwards/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

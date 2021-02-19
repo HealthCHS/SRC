@@ -116,4 +116,6 @@ You may also benefit from joining a support group, or speaking to other people i
 [Macmillan: hair loss](https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss)
 
 ***Page last reviewed: 4 February 2021  
-Next review due: 4 February 2024***
+Next review due: 4 February 2024  
+Source link: <https://www.nhs.uk/conditions/hair-loss/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

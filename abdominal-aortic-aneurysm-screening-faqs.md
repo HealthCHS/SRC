@@ -89,4 +89,6 @@ No. During the screening scan the technician only looks at your aorta to check i
 If you have any concerns about your health, speak to a GP.
 
 ***Page last reviewed: 12 January 2021  
-Next review due: 12 January 2024***
+Next review due: 12 January 2024  
+Source link: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/faqs/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

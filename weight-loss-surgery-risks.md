@@ -145,5 +145,7 @@ Weight loss surgery is a major  operation and there is a chance of dying during 
 
 But this is rare.
 
-​      Page last reviewed: 14 April 2020
-​      Next review due: 14 April 2023    
+***Page last reviewed: 14 April 2020
+Next review due: 14 April 2023  
+Source link: <https://www.nhs.uk/conditions/weight-loss-surgery/risks/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

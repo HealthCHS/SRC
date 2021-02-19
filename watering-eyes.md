@@ -54,4 +54,6 @@ For example:
 - a small operation may be needed if you have a problem with your eyelids or you have blocked tear ducts
 
 ***Page last reviewed: 6 April 2018  
-Next review due: 6 April 2021***
+Next review due: 6 April 2021  
+Source link: <https://www.nhs.uk/conditions/watering-eyes/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

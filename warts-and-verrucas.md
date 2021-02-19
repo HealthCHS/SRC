@@ -80,4 +80,6 @@ It can take months for a wart or verruca to appear after contact with the virus.
 > - do not scratch or pick a wart
 
 ***Page last reviewed: 14 October 2020  
-Next review due: 14 October 2023***
+Next review due: 14 October 2023  
+Source link: <https://www.nhs.uk/conditions/warts-and-verrucas/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

@@ -159,4 +159,6 @@ The NCARDRS helps scientists look for better ways to prevent and treat GPA. You 
 [GOV.UK has more information about the register](https://www.gov.uk/government/publications/national-congenital-anomaly-and-rare-disease-registration-service-introductory-leaflet)
 
 ***Page last reviewed: 30 July 2020  
-Next review due: 30 July 2023***
+Next review due: 30 July 2023  
+Source link: <https://www.nhs.uk/conditions/granulomatosis-with-polyangiitis/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

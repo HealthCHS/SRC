@@ -54,5 +54,7 @@ Some people consider having treatment abroad, where costs for private  treatment
 
 Standards may not be as  strict in clinics outside the UK, and aftercare is not always  straightforward. Clinics in other countries may not provide follow-up  care, or it may not be the same standard as in the UK.
 
-​      Page last reviewed: 14 April 2020
-​      Next review due: 14 April 2023    
+***Page last reviewed: 14 April 2020  
+Next review due: 14 April 2023  
+Source link: <https://www.nhs.uk/conditions/weight-loss-surgery/who-can-have-it/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

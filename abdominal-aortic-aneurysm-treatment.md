@@ -113,4 +113,6 @@ A burst aneurysm is treated with emergency surgery using the same techniques use
 The decision about whether to perform open or endovascular surgery is made by the surgeon carrying out the operation.
 
 ***Page last reviewed: 21 May 2020  
-Next review due: 21 May 2023***
+Next review due: 21 May 2023  
+Source link: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/treatment/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

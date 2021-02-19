@@ -134,4 +134,6 @@ A very rare side effect of the vaccine can cause problems with the brain  or oth
 Get medical advice if you feel very unwell within a few days or weeks of having the yellow fever vaccine.
 
 ***Page last reviewed: 22 May 2020  
-Next review due: 22 May 2023***
+Next review due: 22 May 2023  
+Source link: <https://www.nhs.uk/conditions/yellow-fever/vaccination/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

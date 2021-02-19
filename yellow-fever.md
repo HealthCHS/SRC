@@ -104,4 +104,6 @@ Also drink plenty of fluids to avoid [dehydration](https://www.nhs.uk/conditions
 If you have more serious symptoms, you may need to go into hospital for  close monitoring and treatment of your symptoms until you're feeling  better.
 
 ***Page last reviewed: 22 May 2020  
-Next review due: 22 May 2023***
+Next review due: 22 May 2023  
+Source link: <https://www.nhs.uk/conditions/yellow-fever/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

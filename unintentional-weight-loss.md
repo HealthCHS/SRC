@@ -49,4 +49,6 @@ Less frequently, unexpected weight loss may be the result of:
 - [dementia](dementia-about.md) – people with dementia may be unable to communicate their eating needs
 
 ***Page last reviewed: 1 February 2019  
-​Next review due: 1 February 2022***
+​Next review due: 1 February 2022  
+Source link: <https://www.nhs.uk/conditions/unintentional-weight-loss/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

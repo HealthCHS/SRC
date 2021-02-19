@@ -103,4 +103,6 @@ For example, an X-ray of your chest, limbs or teeth is  equivalent to a few days
 The benefits and risks of having an X-ray will be weighed up before  it's recommended. Talk to your doctor or radiographer about the  potential risks beforehand, if you have any concerns.
 
 ***Page last reviewed: 13 July 2018  
-Next review due: 13 July 2021***
+Next review due: 13 July 2021  
+Source link: <https://www.nhs.uk/conditions/x-ray/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

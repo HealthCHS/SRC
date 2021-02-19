@@ -115,4 +115,6 @@ Read more about [screening for an AAA](https://www.nhs.uk/conditions/abdominal-a
 ***There is a video in NHS website, please visit <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/>***
 
 ***Page last reviewed: 21 May 2020  
-Next review due: 21 May 2023***
+Next review due: 21 May 2023  
+Source link: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/>  
+Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***
