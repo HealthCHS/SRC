@@ -2,7 +2,7 @@
 
 # **Overview**
 
-# *Yellow fever*
+## *Yellow fever*
 
 - **Overview**
 - [Treatment](yellow-fever-vaccination.md)

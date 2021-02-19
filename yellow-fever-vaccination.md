@@ -2,7 +2,7 @@
 
 # **Vaccination**
 
-# *Yellow fever*
+## *Yellow fever*
 
 - [Overview](yellow-fever.md)
 - **Vaccination**

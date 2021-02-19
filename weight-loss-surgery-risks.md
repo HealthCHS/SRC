@@ -1,6 +1,12 @@
-#       Risks                   -           Weight loss surgery                  
+# Risks 
 
-  Contents                              [Overview](https://www.nhs.uk/conditions/weight-loss-surgery/)                                          [Availability](https://www.nhs.uk/conditions/weight-loss-surgery/who-can-have-it/)                                          [Types](https://www.nhs.uk/conditions/weight-loss-surgery/types/)                                          [Afterwards](https://www.nhs.uk/conditions/weight-loss-surgery/afterwards/)                                          Risks                    
+## *Weight loss surgery*                
+
+- [Overview](weight-loss-surgery.md)
+- [Availability](weight-loss-surgery-who-can-have-it.md)
+- [Types](weight-loss-surgery-types.md)
+- [Afterwards](weight-loss-surgery-afterwards.md)
+- **Risks**                    
 
 **Weight loss surgery carries a risk of complications, some of which can be serious.**
 
@@ -10,17 +16,17 @@ Before having surgery, speak to your surgeon about the possible benefits and ris
 
 ## Blood clots
 
-You'll have [treatment to reduce your risk of blood clots](https://www.nhs.uk/conditions/blood-clots/) after surgery, such as special leg stockings or blood-thinning medicine, but you can sometimes still get them.
+You'll have [treatment to reduce your risk of blood clots](blood-clots.md) after surgery, such as special leg stockings or blood-thinning medicine, but you can sometimes still get them.
 
-Common places to get blood clots are in the lower leg [(deep vein thrombosis)](https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/) or lungs [(pulmonary embolism)](https://www.nhs.uk/conditions/pulmonary-embolism/).
+Common places to get blood clots are in the lower leg [(deep vein thrombosis)](deep-vein-thrombosis-dvt.md) or lungs [(pulmonary embolism)](pulmonary-embolism.md).
 
 Symptoms can include:
 
 - your lower leg becoming painful, achy and tender
 - swelling, redness or warmth in your lower leg
-- a sharp, stabbing [chest pain](https://www.nhs.uk/conditions/chest-pain/) that may be worse when breathing in
-- shortness of breath or a [cough](https://www.nhs.uk/conditions/cough/)
-- feeling [faint or dizzy](https://www.nhs.uk/conditions/dizziness/)
+- a sharp, stabbing [chest pain](chest-pain.md) that may be worse when breathing in
+- shortness of breath or a [cough](cough.md)
+- feeling [faint or dizzy](dizziness.md)
 
 Contact a GP or NHS 111 as soon as possible if you think you might have a blood clot.
 
@@ -36,7 +42,7 @@ Signs of a wound infection can include:
 - red, hot and swollen skin
 - pus coming from the wound
 
-Contact a GP or NHS 111 if you think your wound may be infected. They may prescribe a course of [antibiotics](https://www.nhs.uk/conditions/antibiotics/).
+Contact a GP or NHS 111 if you think your wound may be infected. They may prescribe a course of [antibiotics](antibiotics.md).
 
 
 
@@ -46,7 +52,7 @@ If you have gastric band surgery, there's a small risk that the band could move 
 
 This can cause:
 
-- [heartburn](https://www.nhs.uk/conditions/heartburn-and-acid-reflux/)
+- [heartburn](heartburn-and-acid-reflux.md)
 - feeling sick
 - vomiting
 
@@ -80,12 +86,12 @@ The blockage can cause a number of complications, including food getting stuck a
 
 This can then cause the following symptoms:
 
-- [difficulty swallowing](https://www.nhs.uk/conditions/swallowing-problems-dysphagia/)
+- [difficulty swallowing](swallowing-problems-dysphagia.md)
 - you keep being sick (vomiting)
 - tummy pain
 - not needing to poo as often as usual
 
-Contact a GP or NHS 111 as soon as possible if you have these symptoms. You may need to have a procedure to widen or clear the blockage using a thin,  flexible tube passed down your throat [(endoscope)](https://www.nhs.uk/conditions/endoscopy/).
+Contact a GP or NHS 111 as soon as possible if you have these symptoms. You may need to have a procedure to widen or clear the blockage using a thin,  flexible tube passed down your throat [(endoscope)](endoscopy.md).
 
 Cutting food into small chunks, chewing thoroughly and not drinking during meals can help reduce the risk of a blockage.
 
@@ -93,39 +99,39 @@ Cutting food into small chunks, chewing thoroughly and not drinking during meals
 
 ## Malnutrition
 
-Weight loss surgery can make it harder for your gut to absorb [vitamins and minerals](https://www.nhs.uk/conditions/vitamins-and-minerals/) from food, so there's a risk you could become malnourished.
+Weight loss surgery can make it harder for your gut to absorb [vitamins and minerals](vitamins-and-minerals.md) from food, so there's a risk you could become malnourished.
 
 This might not always be obvious, but possible symptoms can include:
 
 - feeling tired or lacking energy all the time
-- [shortness of breath](https://www.nhs.uk/conditions/shortness-of-breath/)
-- noticeable heartbeats [(palpitations)](https://www.nhs.uk/conditions/heart-palpitations/)
+- [shortness of breath](shortness-of-breath.md)
+- noticeable heartbeats [(palpitations)](heart-palpitations.md)
 - pale skin
-- [pins and needles](https://www.nhs.uk/conditions/pins-and-needles/)
+- [pins and needles](pins-and-needles.md)
 - feeling weak
 
 Having a [balanced diet](https://www.nhs.uk/live-well/eat-well/) can help reduce the risk of malnutrition, but most people need to take extra nutritional supplements for life after surgery.
 
-You'll have regular [blood tests](https://www.nhs.uk/conditions/blood-tests/) after surgery to measure your vitamin and mineral levels, so any problems can be picked up and treated.
+You'll have regular [blood tests](blood-tests.md) after surgery to measure your vitamin and mineral levels, so any problems can be picked up and treated.
 
 
 
 ## Gallstones
 
-It's common to develop [gallstones](https://www.nhs.uk/conditions/gallstones/) in the first year or two after weight loss surgery. These are small,  hard stones in the gallbladder that can form if you lose weight quickly.
+It's common to develop [gallstones](gallstones.md) in the first year or two after weight loss surgery. These are small,  hard stones in the gallbladder that can form if you lose weight quickly.
 
-The main [symptom of gallstones](https://www.nhs.uk/conditions/gallstones/symptoms/) is episodes of severe tummy pain that come on suddenly and can last a few minutes to a few hours.
+The main [symptom of gallstones](gallstones-symptoms.md) is episodes of severe tummy pain that come on suddenly and can last a few minutes to a few hours.
 
 They can also sometimes cause:
 
 - a high temperature
 - a fast heartbeat
-- yellowing of the skin and eyes [(jaundice)](https://www.nhs.uk/conditions/jaundice/)
-- [itchy skin](https://www.nhs.uk/conditions/itchy-skin/)
+- yellowing of the skin and eyes [(jaundice)](jaundice.md)
+- [itchy skin](itchy-skin.md)
 - chills or shivering
-- [confusion](https://www.nhs.uk/conditions/confusion/)
+- [confusion](confusion.md)
 
-See a GP if you have symptoms of gallstones. You may need an [operation to remove your gallbladder](https://www.nhs.uk/conditions/gallbladder-removal/).
+See a GP if you have symptoms of gallstones. You may need an [operation to remove your gallbladder](gallbladder-removal.md).
 
 
 
@@ -133,7 +139,7 @@ See a GP if you have symptoms of gallstones. You may need an [operation to remov
 
 As you lose weight after surgery, you may be left with excess folds and rolls of skin, particularly around your  breasts, tummy, hips and limbs.
 
-Surgery, such as a [tummy tuck](https://www.nhs.uk/conditions/cosmetic-treatments/tummy-tuck/), can be used to remove the excess skin. But its usually considered [cosmetic surgery](https://www.nhs.uk/conditions/cosmetic-treatments/) so it is not always available on the NHS.
+Surgery, such as a [tummy tuck](cosmetic-treatments-tummy-tuck.md), can be used to remove the excess skin. But its usually considered [cosmetic surgery](cosmetic-treatments.md) so it is not always available on the NHS.
 
 Ask as GP if surgery to remove excess skin after weight loss surgery is provided on the NHS where you live.
 
@@ -145,7 +151,7 @@ Weight loss surgery is a major  operation and there is a chance of dying during 
 
 But this is rare.
 
-***Page last reviewed: 14 April 2020
+***Page last reviewed: 14 April 2020  
 Next review due: 14 April 2023  
 Source link: <https://www.nhs.uk/conditions/weight-loss-surgery/risks/>  
 Source license: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)***

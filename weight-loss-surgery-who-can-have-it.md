@@ -2,7 +2,7 @@
 
 # **Availability**
 
-> ## Weight loss surgery
+## *Weight loss surgery*
 
 - [Overview](weight-loss-surgery)
 - **Availability**

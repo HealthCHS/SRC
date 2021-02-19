@@ -2,7 +2,7 @@
 
 # **Types**
 
-> ## Weight loss surgery
+## *Weight loss surgery*
 
 - [Overview](weight-loss-surgery.md)
 - [Availability](weight-loss-surgery-who-can-have-it.md)
