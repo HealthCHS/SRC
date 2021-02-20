@@ -1,6 +1,10 @@
+<!-- Headaches -->
+
 # Headaches
 
 **Most headaches go away on their own and are not a sign of something more serious.**
+
+
 
 ## How you can ease headaches yourself
 
@@ -56,6 +60,8 @@ Headaches can last between 30 minutes and several hours.
 > - you're feeling drowsy or confused
 > - you have a very high temperature, feel hot and shivery, and have a stiff neck or a rash
 > - the white part of your eye is red
+
+
 
 ## What can cause headaches
 
