@@ -549,7 +549,7 @@
 - [ ] Head and neck cancer
 - [ ] Head injury and concussion
 - [ ] Head lice and nits
-- [ ] Headaches
+- [x] Headaches
 - [ ] Headaches (hormone)
 - [ ] Headaches (tension-type)
 - [ ] Headaches in children
