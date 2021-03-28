@@ -46,7 +46,8 @@ If you have a cough, you can ask a pharmacist about:
 
 - cough syrup
 - cough medicine (some cough medicines should not be given to children under 12)
-- cou
+- cough sweets
+
 These will not stop your cough, but may help you cough less.
 
 Decongestants and cough medicines containing codeine will not stop your cough.
