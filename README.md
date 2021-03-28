@@ -308,7 +308,7 @@
 - [ ] Corticosteroids
 - [ ] Cosmetic procedures
 - [ ] Costochondritis
-- [ ] Cough
+- [x] Cough
 - [ ] Coughing up blood (blood in phlegm)
 - [ ] Counselling
 - [ ] COVID-19
