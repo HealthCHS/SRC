@@ -13,6 +13,8 @@
 - [Health problems](type-2-diabetes-health-problems.md)
 - [Finding help and support](type-2-diabetes-finding-help-and-support.md)
 
+<br>
+
 - **Type 2 diabetes is a common condition** that causes the level of sugar (glucose) in the blood to become too high.
 - **It can cause symptoms like excessive thirst, needing to pee a lot and tiredness.** It can also increase your risk of getting serious problems with your eyes, heart and nerves.
 - **It's a lifelong condition that can affect your everyday life.** You may need to change your diet, take medicines and have regular check-ups.
