@@ -355,7 +355,7 @@
 - [ ] DEXA scan
 - [ ] Diabetes
 - [ ] Diabetes (type 1)
-- [ ] Diabetes (type 2)
+- [x] Diabetes (type 2)
 - [ ] Diabetes in pregnancy
 - [ ] Diabetes insipidus
 - [ ] Diabetic eye screening
